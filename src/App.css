@@ -1,0 +1,30 @@
+body{
+  background-image: url("./Images/Background.png");
+  background-color: #F9F9F9;
+  font-size: 14px;
+}
+ .nav-tabs .active {
+  background-color: #3766E8;
+  color: white;
+}
+ .nav-tabs a:hover {
+  background-color: #3766E8;
+  color: white;
+}
+ /* .nav-tabs {
+  background-color: rgba(0, 0, 0, 0.7);
+  border-bottom: none !important;
+} */
+
+.nav-tabs a {
+  margin: 10px;
+  text-align: center;
+  transition: 0.5s;
+  color: #545454;
+  background-color: #F0F0F0;
+  font-size: 12px;
+  border-radius: 20px;
+}
+.nav-tabs {
+  border-bottom: none;
+}
