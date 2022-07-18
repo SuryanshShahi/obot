@@ -1,6 +1,5 @@
 body{
-  background-image: url("./Images/Background.png") no-repeat;
-  background-size: cover;
+  background-image: url("./Images/Background.png");
   background-color: #F9F9F9;
   font-size: 14px;
 }
